@@ -13,6 +13,22 @@ and contributors.
 | [bergamot-translator](https://github.com/browsermt/bergamot-translator) | The Bergamot Project | [MPL-2.0](licenses/MPL-2.0.txt) | On-device translation engine |
 | [Inter](https://rsms.me/inter/) 4.001 | The Inter Project Authors | [SIL OFL 1.1](licenses/Inter-OFL-1.1.txt) | App typeface (unmodified) |
 
+## Text recognition (Android)
+
+The Android app reads text in photos (Scan Text in Translate) with Tesseract; the iOS app uses Apple's
+built-in Vision framework instead.
+
+| Component | Version | License |
+|---|---|---|
+| [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) | 5.5.1 | [Apache-2.0](licenses/Apache-2.0.txt) |
+| [Tesseract4Android](https://github.com/adaptech-cz/Tesseract4Android) | 4.9.0 | [Apache-2.0](licenses/Apache-2.0.txt) |
+| [tessdata_fast](https://github.com/tesseract-ocr/tessdata_fast) Turkish + English models | commit 8741641 | [Apache-2.0](licenses/Apache-2.0.txt) |
+| [Leptonica](https://github.com/DanBloomberg/leptonica) | 1.85.0 | [BSD-2-Clause](licenses/Leptonica-BSD-2-Clause.txt) |
+| [libpng](https://github.com/pnggroup/libpng) | 1.6.48 | [PNG Reference Library License v2](licenses/libpng-LICENSE.txt) |
+| IJG libjpeg | 9f | [IJG license](licenses/IJG-libjpeg-LEGAL.txt) |
+
+This software is based in part on the work of the Independent JPEG Group.
+
 ## Translation engine components
 
 The apps statically link Mozilla's Bergamot inference engine, built **unmodified** (MPL-2.0 files are
