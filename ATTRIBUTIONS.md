@@ -13,6 +13,21 @@ and contributors.
 | [bergamot-translator](https://github.com/browsermt/bergamot-translator) | The Bergamot Project | [MPL-2.0](licenses/MPL-2.0.txt) | On-device translation engine |
 | [Inter](https://rsms.me/inter/) | The Inter Project Authors | [SIL OFL 1.1](licenses/Inter-OFL-1.1.txt) | App typeface |
 
+## Translation engine components
+
+The apps statically link Mozilla's Bergamot inference engine, built **unmodified** (MPL-2.0 files are
+not changed) from [mozilla/translations @ 8eada038](https://github.com/mozilla/translations/tree/8eada038fd45bbf6fa58a412b22f80c79887fabc/inference).
+That link is the source code form of the MPL-2.0 components we distribute.
+
+| Component | License |
+|---|---|
+| Bergamot translator | [MPL-2.0](licenses/MPL-2.0.txt) |
+| Marian NMT, intgemm, yaml-cpp, spdlog, faiss, phf, cnpy, zstr, mio, sse2neon | MIT |
+| ssplit-cpp (code), SentencePiece, ruy, abseil (subset) | [Apache-2.0](licenses/Apache-2.0.txt) |
+| cpuinfo, simd_utils, pathie-cpp, darts-clone | BSD-2-Clause |
+| CLI11, half_float, protobuf-lite, [PCRE2 10.49](https://github.com/PCRE2Project/pcre2) | BSD-3-Clause |
+| zlib | Zlib |
+
 Citation for Wiktextract:
 Tatu Ylonen. 2022. *Wiktextract: Wiktionary as Machine-Readable Structured Data.*
 In Proceedings of the 13th Language Resources and Evaluation Conference (LREC 2022), pages 1317–1325.
