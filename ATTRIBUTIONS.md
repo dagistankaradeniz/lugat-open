@@ -11,7 +11,7 @@ and contributors.
 | [Zemberek-NLP](https://github.com/ahmetaa/zemberek-nlp) | Ahmet A. Akın, Mehmet D. Akın | [Apache-2.0](licenses/Apache-2.0.txt) | Turkish word-form analysis (used to build the database; not shipped in the app) |
 | [Firefox Translations models](https://github.com/mozilla/translations) | Mozilla | [MPL-2.0](licenses/MPL-2.0.txt) | On-device Turkish ↔ English translation models |
 | [bergamot-translator](https://github.com/browsermt/bergamot-translator) | The Bergamot Project | [MPL-2.0](licenses/MPL-2.0.txt) | On-device translation engine |
-| [Inter](https://rsms.me/inter/) | The Inter Project Authors | [SIL OFL 1.1](licenses/Inter-OFL-1.1.txt) | App typeface |
+| [Inter](https://rsms.me/inter/) 4.001 | The Inter Project Authors | [SIL OFL 1.1](licenses/Inter-OFL-1.1.txt) | App typeface (unmodified) |
 
 ## Translation engine components
 
