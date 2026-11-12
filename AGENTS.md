@@ -1,6 +1,6 @@
 # AGENTS.md — lugat-open
 
-**Public** repository. It contains only license-compliance material for Lügat: attributions,
+**Public** repository. It contains only license-compliance material for İngilizce Sözlüğüm: attributions,
 license texts, the privacy policy, and the CC BY-SA dictionary database attached to releases.
 
 ## Rules

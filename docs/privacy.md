@@ -1,13 +1,13 @@
-# Lügat Privacy Policy
+# İngilizce Sözlüğüm Privacy Policy
 
 *Last updated: November 12, 2026*
 
-Lügat is a Turkish ↔ English dictionary and translator that runs entirely on your device. On Google Play
-it is published as “İngilizce Sözlüğüm”. This policy covers the Android and iOS apps and their widgets.
+İngilizce Sözlüğüm is a Turkish ↔ English dictionary and translator that runs entirely on your device. On
+the home screen it is called “Sözlüğüm”. This policy covers the Android and iOS apps and their widgets.
 
 ## Summary
 
-Lügat does not collect, store on any server, transmit or share any personal data. It has no internet
+İngilizce Sözlüğüm does not collect, store on any server, transmit or share any personal data. It has no internet
 access, no accounts, no ads, no analytics and no tracking.
 
 ## No internet connection
@@ -50,7 +50,7 @@ The developer only sees the anonymous, aggregated statistics these stores provid
 
 ## Children
 
-Lügat collects no data from anyone, including children.
+İngilizce Sözlüğüm collects no data from anyone, including children.
 
 ## Changes
 
@@ -62,16 +62,16 @@ Questions: open an issue at https://github.com/dagistankaradeniz/lugat-open/issu
 
 ---
 
-# Lügat Gizlilik Politikası
+# İngilizce Sözlüğüm Gizlilik Politikası
 
 *Son güncelleme: 12 Kasım 2026*
 
-Lügat, tamamen cihazınızda çalışan bir Türkçe ↔ İngilizce sözlük ve çeviri uygulamasıdır. Google Play'de
-“İngilizce Sözlüğüm” adıyla yayımlanır. Bu politika Android ve iOS uygulamalarını ve bileşenlerini kapsar.
+İngilizce Sözlüğüm, tamamen cihazınızda çalışan bir Türkçe ↔ İngilizce sözlük ve çeviri uygulamasıdır. Ana
+ekranda “Sözlüğüm” adıyla görünür. Bu politika Android ve iOS uygulamalarını ve bileşenlerini kapsar.
 
 ## Özet
 
-Lügat hiçbir kişisel veriyi toplamaz, bir sunucuda saklamaz, iletmez veya paylaşmaz. İnternet erişimi,
+İngilizce Sözlüğüm hiçbir kişisel veriyi toplamaz, bir sunucuda saklamaz, iletmez veya paylaşmaz. İnternet erişimi,
 hesap, reklam, analiz ve izleme yoktur.
 
 ## İnternet bağlantısı yoktur
@@ -114,7 +114,7 @@ yalnızca bu mağazaların sunduğu anonim, toplu istatistikleri görür.
 
 ## Çocuklar
 
-Lügat, çocuklar dahil hiç kimseden veri toplamaz.
+İngilizce Sözlüğüm, çocuklar dahil hiç kimseden veri toplamaz.
 
 ## Değişiklikler
 

@@ -1,6 +1,6 @@
 # Attributions
 
-Lügat is built on the following openly licensed works. Thank you to all their authors
+İngilizce Sözlüğüm is built on the following openly licensed works. Thank you to all their authors
 and contributors.
 
 | Component | Authors | License | Used for |
